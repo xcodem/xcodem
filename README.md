@@ -1,7 +1,7 @@
-# Welcome to xcodem github space – A Place for DevOps, Cloud, and AI 💡
+# Welcome to xcodem github space.
 
-🚀 **Innovating Scalable Systems through Automation, Cloud, and Artificial Intelligence.**  
-Here are shared projects, ideas, solutions, and insights around automating infrastructure, building cloud-native systems, and using AI technology.
+🚀 **A Place for DevOps, Cloud, and AI 💡**  
+Here are shared projects and ideas around automating infrastructure, building cloud-native systems, and using AI technology.
 
 ---
 
