@@ -12,7 +12,7 @@ Here are shared projects, ideas, solutions, and insights around automating infra
 
 ---
 
-### 🔗 Project Hubs:
+### 🔗 Projects Hubs:
 - 💼 [DevOps](https://github.com/xcodem/devops-solutions)
 - 🌐 [Cloud](https://github.com/xcodem/cloud-solutions)
 - 🤖 [AI](https://github.com/xcodem/ai-solutions)
